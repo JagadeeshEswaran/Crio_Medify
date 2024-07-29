@@ -1,0 +1,10 @@
+.topNavBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.topnavBar_message {
+  margin: 0;
+  padding: 0;
+}
